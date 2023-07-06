@@ -1,2 +1,0 @@
-# shopRetail
-Learning Devops
